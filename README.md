@@ -1,7 +1,18 @@
 # Awesome-Multimodal-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of papers related to Multimodal machine learning, especially Multimodal Large Language Models (LLMs).
 
+## Table of Contents
+- [Research Papers](#research-papers)
+  - [Survey Papers](#survey-papers)
+  - [Core Areas](#core-areas)
+    - [Multimodal Understanding](#multimodal-understanding)
+    - [Vision-Centric Understanding](#vision-centric-understanding)
+    - [Embodied-Centric Understanding](#embodied-centric-understanding)
+    - [Domain-Specific Models](#domain-specific-models)
+
 # Research Papers
+
+## Survey Papers
 
 ## Core Areas
 
