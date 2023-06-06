@@ -1,4 +1,4 @@
-# Awesome-Multimodal-LLM
+# Awesome-Multimodal-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 # Research Papers
 
