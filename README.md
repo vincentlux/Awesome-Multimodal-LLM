@@ -1,5 +1,5 @@
 # Awesome-Multimodal-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of papers related to Multimodal machine learning, especially Multimodal Large Language Models (LLMs).
+A curated list of papers related to multi-modal machine learning, especially multi-modal large language models (LLMs).
 
 ## Table of Contents
 - [Research Papers](#research-papers)
