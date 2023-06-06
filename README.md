@@ -59,7 +59,7 @@
 
 [TidyBot: Personalized Robot Assistance with Large Language Models](https://arxiv.org/abs/2305.05658), arxiv 2023 [[code]](https://github.com/jimmyyhwu/tidybot)
 
-[Lm-nav: Robotic navigation with large pre-trained models of language, vision, and action](https://arxiv.org/abs/2207.04429)[[code]](https://github.com/blazejosinski/lm_nav)
+[Lm-nav: Robotic navigation with large pre-trained models of language, vision, and action](https://arxiv.org/abs/2207.04429), CoRL 2022 [[blog]](https://sites.google.com/view/lmnav) [[code]](https://github.com/blazejosinski/lm_nav)
 
 
 
