@@ -2,6 +2,7 @@
 A curated list of papers related to multi-modal machine learning, especially multi-modal large language models (LLMs).
 
 ## Table of Contents
+- [Datasets] (#datasets)
 - [Research Papers](#research-papers)
   - [Survey Papers](#survey-papers)
   - [Core Areas](#core-areas)
@@ -9,6 +10,11 @@ A curated list of papers related to multi-modal machine learning, especially mul
     - [Vision-Centric Understanding](#vision-centric-understanding)
     - [Embodied-Centric Understanding](#embodied-centric-understanding)
     - [Domain-Specific Models](#domain-specific-models)
+
+# Datasets
+[M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning](https://arxiv.org/abs/2306.04387), arxiv 2023 [[data]](https://huggingface.co/datasets/MMInstruction/M3IT)
+
+[LLaVA Instruction 150K](https://llava-vl.github.io/), arxiv 2023 [[data]](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K)
 
 # Research Papers
 
