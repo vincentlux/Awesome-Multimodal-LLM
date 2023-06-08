@@ -2,7 +2,7 @@
 A curated list of papers related to multi-modal machine learning, especially multi-modal large language models (LLMs).
 
 ## Table of Contents
-- [Datasets] (#datasets)
+- [Datasets](#datasets)
 - [Research Papers](#research-papers)
   - [Survey Papers](#survey-papers)
   - [Core Areas](#core-areas)
