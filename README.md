@@ -16,6 +16,8 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 [LLaVA Instruction 150K](https://llava-vl.github.io/), arxiv 2023 [[data]](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K)
 
+[Youku-mPLUG 10M](https://arxiv.org/abs/2306.04362), arxiv 2023 [[data]](https://github.com/X-PLUG/Youku-mPLUG)
+
 # Research Papers
 
 ## Survey Papers
@@ -23,6 +25,8 @@ A curated list of papers related to multi-modal machine learning, especially mul
 ## Core Areas
 
 ### Multimodal Understanding
+
+
 [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500), arxiv 2023 [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) 
 
 [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597), ICML 2023 [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)
@@ -47,6 +51,9 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 
 ### Vision-Centric Understanding
+
+[Images Speak in Images: A Generalist Painter for In-Context Visual Learning](https://arxiv.org/abs/2212.02499), arxiv 2023 [[code]](https://github.com/baaivision/Painter)
+
 [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/abs/2306.02858), arxiv 2023 [[code]](https://github.com/DAMO-NLP-SG/Video-LLaMA)
 
 [SegGPT: Segmenting Everything In Context](http://arxiv.org/abs/2304.03284), arxiv 2023 [[code]](https://github.com/baaivision/Painter)
