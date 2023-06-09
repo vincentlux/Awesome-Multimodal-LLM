@@ -26,6 +26,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 ### Multimodal Understanding
 
+[MIMIC-IT: Multi-Modal In-Context Instruction Tuning](https://arxiv.org/abs/2305.03726), arxiv 2023 [[code]](https://github.com/Luodian/Otter)
 
 [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500), arxiv 2023 [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) 
 
