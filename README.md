@@ -78,6 +78,9 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 
 ### Embodied-Centric Understanding
+
+[Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model](https://arxiv.org/abs/2305.11176), arxiv 2023 [[code]](https://github.com/OpenGVLab/Instruct2Act)
+
 [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378), arxiv 2023 [[blog]](https://palm-e.github.io/)
 
 [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442), arxiv 2023
