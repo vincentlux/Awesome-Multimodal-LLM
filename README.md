@@ -52,6 +52,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 
 ### Vision-Centric Understanding
+[Multi-Modal Classifiers for Open-Vocabulary Object Detection](https://arxiv.org/abs/2306.05493), ICML 2023 [[code]](https://github.com/prannaykaul/mm-ovod)
 
 [Images Speak in Images: A Generalist Painter for In-Context Visual Learning](https://arxiv.org/abs/2212.02499), arxiv 2023 [[code]](https://github.com/baaivision/Painter)
 
