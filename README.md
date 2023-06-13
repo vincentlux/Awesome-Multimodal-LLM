@@ -22,6 +22,9 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 ## Survey Papers
 
+[Vision-Language Models for Vision Tasks: A Survey](https://arxiv.org/abs/2304.00685), arxiv 2023
+
+
 ## Core Areas
 
 ### Multimodal Understanding
