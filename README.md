@@ -10,6 +10,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
     - [Vision-Centric Understanding](#vision-centric-understanding)
     - [Embodied-Centric Understanding](#embodied-centric-understanding)
     - [Domain-Specific Models](#domain-specific-models)
+    - [Multimodal Evaluation](#multimodal-evaluation)
 
 # Datasets
 [M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning](https://arxiv.org/abs/2306.04387), arxiv 2023 [[data]](https://huggingface.co/datasets/MMInstruction/M3IT)
