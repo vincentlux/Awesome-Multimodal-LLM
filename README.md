@@ -18,6 +18,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 [Youku-mPLUG 10M](https://arxiv.org/abs/2306.04362), arxiv 2023 [[data]](https://github.com/X-PLUG/Youku-mPLUG)
 
+
 # Research Papers
 
 ## Survey Papers
@@ -97,4 +98,10 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 
 ### Domain-Specific Models
+
 [LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day](http://arxiv.org/abs/2306.00890), arxiv 2023 [[code]](https://github.com/microsoft/LLaVA-Med)
+
+### Multimodal Evaluation
+
+[Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation](https://arxiv.org/abs/2303.05983), arxiv 2023 [[project page]](https://matrix-alpha.github.io/)
+
