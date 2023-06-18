@@ -104,5 +104,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 ### Multimodal Evaluation
 
+[LOVM: Language-Only Vision Model Selection](https://arxiv.org/abs/2306.08893), arxiv 2023
+
 [Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation](https://arxiv.org/abs/2303.05983), arxiv 2023 [[project page]](https://matrix-alpha.github.io/)
 
