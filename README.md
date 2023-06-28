@@ -72,6 +72,8 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 ### Vision-Centric Understanding
 
+[Contextual Object Detection with Multimodal Large Language Models](https://arxiv.org/abs/2305.18279), arxiv 2023 [[code]](https://github.com/yuhangzang/ContextDET)
+
 [Fast Segment Anything](https://arxiv.org/abs/2306.12156), arxiv 2023 [[code]](https://github.com/CASIA-IVA-Lab/FastSAM)
 
 [Multi-Modal Classifiers for Open-Vocabulary Object Detection](https://arxiv.org/abs/2306.05493), ICML 2023 [[code]](https://github.com/prannaykaul/mm-ovod)
