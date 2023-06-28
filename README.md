@@ -15,7 +15,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 # Tutorials
 
-[Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/), CVPR 2023 Workshop
+[Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/), CVPR 2023 Workshop [pdf](https://datarelease.blob.core.windows.net/tutorial/vision_foundation_models_2023/slides/Chunyuan_cvpr2023_tutorial_lmm.pdf)
 
 # Datasets
 
