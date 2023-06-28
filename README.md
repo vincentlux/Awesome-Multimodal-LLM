@@ -25,6 +25,8 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 [Youku-mPLUG 10M](https://arxiv.org/abs/2306.04362), arxiv 2023 [[data]](https://github.com/X-PLUG/Youku-mPLUG)
 
+[MULTIINSTRUCT: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning](https://arxiv.org/abs/2212.10773), ACL 2023 [[data]](https://github.com/VT-NLP/MultiInstruct)
+
 
 # Research Papers
 
@@ -42,6 +44,8 @@ A curated list of papers related to multi-modal machine learning, especially mul
 [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500), arxiv 2023 [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) 
 
 [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597), ICML 2023 [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)
+
+[MultiModal-GPT: A Vision and Language Model for Dialogue with Humans](https://arxiv.org/abs/2305.04790), arxiv 2023 [[code]](https://github.com/open-mmlab/Multimodal-GPT)
 
 [Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/abs/2302.14045v2), arxiv 2023 [[code]](https://github.com/microsoft/unilm)
 
