@@ -47,6 +47,8 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 [MultiModal-GPT: A Vision and Language Model for Dialogue with Humans](https://arxiv.org/abs/2305.04790), arxiv 2023 [[code]](https://github.com/open-mmlab/Multimodal-GPT)
 
+[LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model](https://arxiv.org/abs/2304.15010), arxiv 2023 [[code]](https://github.com/ZrrSkywalker/LLaMA-Adapter)
+
 [Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/abs/2302.14045v2), arxiv 2023 [[code]](https://github.com/microsoft/unilm)
 
 [ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities](http://arxiv.org/abs/2305.11172), arxiv 2023 [[code]](https://github.com/OFA-Sys/ONE-PEACE)
@@ -71,6 +73,8 @@ A curated list of papers related to multi-modal machine learning, especially mul
 [Fast Segment Anything](https://arxiv.org/abs/2306.12156), arxiv 2023 [[code]](https://github.com/CASIA-IVA-Lab/FastSAM)
 
 [Multi-Modal Classifiers for Open-Vocabulary Object Detection](https://arxiv.org/abs/2306.05493), ICML 2023 [[code]](https://github.com/prannaykaul/mm-ovod)
+
+[Instruction-ViT: Multi-Modal Prompts for Instruction Learning in ViT](https://arxiv.org/abs/2305.00201), arxiv 2023
 
 [Images Speak in Images: A Generalist Painter for In-Context Visual Learning](https://arxiv.org/abs/2212.02499), arxiv 2023 [[code]](https://github.com/baaivision/Painter)
 
