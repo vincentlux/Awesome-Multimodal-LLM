@@ -2,6 +2,7 @@
 A curated list of papers related to multi-modal machine learning, especially multi-modal large language models (LLMs).
 
 ## Table of Contents
+- [Tutorials](#tutorials)
 - [Datasets](#datasets)
 - [Research Papers](#research-papers)
   - [Survey Papers](#survey-papers)
@@ -12,7 +13,12 @@ A curated list of papers related to multi-modal machine learning, especially mul
     - [Domain-Specific Models](#domain-specific-models)
     - [Multimodal Evaluation](#multimodal-evaluation)
 
+# Tutorials
+
+[Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/), CVPR 2023 Workshop
+
 # Datasets
+
 [M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning](https://arxiv.org/abs/2306.04387), arxiv 2023 [[data]](https://huggingface.co/datasets/MMInstruction/M3IT)
 
 [LLaVA Instruction 150K](https://llava-vl.github.io/), arxiv 2023 [[data]](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K)
@@ -86,6 +92,8 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 
 ### Embodied-Centric Understanding
+
+[MotionGPT: Human Motion as a Foreign Language](https://arxiv.org/abs//2306.14795), arxiv 2023 [[code]](https://github.com/OpenMotionLab/MotionGPT)
 
 [Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model](https://arxiv.org/abs/2305.11176), arxiv 2023 [[code]](https://github.com/OpenGVLab/Instruct2Act)
 
