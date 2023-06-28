@@ -45,7 +45,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597), ICML 2023 [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)
 
-[Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models], arxiv 2023 [[code]](https://github.com/luogen1996/LaVIN)
+[Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models](https://arxiv.org/abs/2305.15023), arxiv 2023 [[code]](https://github.com/luogen1996/LaVIN)
 
 [MultiModal-GPT: A Vision and Language Model for Dialogue with Humans](https://arxiv.org/abs/2305.04790), arxiv 2023 [[code]](https://github.com/open-mmlab/Multimodal-GPT)
 
