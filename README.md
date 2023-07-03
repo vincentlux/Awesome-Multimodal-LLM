@@ -41,6 +41,8 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 [MIMIC-IT: Multi-Modal In-Context Instruction Tuning](https://arxiv.org/abs/2305.03726), arxiv 2023 [[code]](https://github.com/Luodian/Otter)
 
+[LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding](https://arxiv.org/abs/2306.17107), arxiv 2023 [[code]](https://github.com/SALT-NLP/LLaVAR)
+
 [MetaVL: Transferring In-Context Learning Ability From Language Models to Vision-Language Models](https://arxiv.org/abs/2306.01311), arxiv 2023
 
 [mPLUG-Owl : Modularization Empowers Large Language Models with Multimodality](https://arxiv.org/abs/2304.14178), arxiv 2023 [[code]](https://github.com/X-PLUG/mPLUG-Owl)
