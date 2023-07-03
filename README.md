@@ -39,6 +39,10 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 ### Multimodal Understanding
 
+[PandaGPT: One Model To Instruction-Follow Them All](http://arxiv.org/abs/2305.16355), arxiv 2023 [[code]](https://github.com/yxuansu/PandaGPT)
+
+[Shikra: Unleashing Multimodal LLM’s Referential Dialogue Magic](https://arxiv.org/abs/2306.15195), arxiv 2023 [[code]](https://github.com/shikras/shikra)
+
 [MIMIC-IT: Multi-Modal In-Context Instruction Tuning](https://arxiv.org/abs/2305.03726), arxiv 2023 [[code]](https://github.com/Luodian/Otter)
 
 [LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding](https://arxiv.org/abs/2306.17107), arxiv 2023 [[code]](https://github.com/SALT-NLP/LLaVAR)
