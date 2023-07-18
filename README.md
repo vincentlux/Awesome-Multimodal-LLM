@@ -32,12 +32,18 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 ## Survey Papers
 
+[A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549), arxiv 2023 [[project page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+
 [Vision-Language Models for Vision Tasks: A Survey](https://arxiv.org/abs/2304.00685), arxiv 2023
 
 
 ## Core Areas
 
 ### Multimodal Understanding
+
+
+
+[Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic](https://arxiv.org/abs/2306.15195), arxiv 2023 [[code]](https://github.com/shikras/shikra)
 
 [PandaGPT: One Model To Instruction-Follow Them All](http://arxiv.org/abs/2305.16355), arxiv 2023 [[code]](https://github.com/yxuansu/PandaGPT)
 
@@ -81,6 +87,8 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 
 ### Vision-Centric Understanding
+
+[KOSMOS-2: Grounding Multimodal Large Language Models to the World](https://arxiv.org/abs/2306.14824), arxiv 2023 [[code]](https://github.com/microsoft/unilm/tree/master/kosmos-2)
 
 [Contextual Object Detection with Multimodal Large Language Models](https://arxiv.org/abs/2305.18279), arxiv 2023 [[code]](https://github.com/yuhangzang/ContextDET)
 
