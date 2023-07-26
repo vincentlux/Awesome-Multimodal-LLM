@@ -123,6 +123,8 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 ### Embodied-Centric Understanding
 
+[VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models], arxiv 2023 [[project page]](https://voxposer.github.io/)
+
 [MotionGPT: Human Motion as a Foreign Language](https://arxiv.org/abs//2306.14795), arxiv 2023 [[code]](https://github.com/OpenMotionLab/MotionGPT)
 
 [Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model](https://arxiv.org/abs/2305.11176), arxiv 2023 [[code]](https://github.com/OpenGVLab/Instruct2Act)
