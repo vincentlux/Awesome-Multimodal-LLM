@@ -127,9 +127,9 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 [Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition](https://arxiv.org/abs/2307.14535), arxiv 2023 [[code]](https://github.com/columbia-ai-robotics/scalingup)
 
-[RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control], preprint [[project page]](https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action)
+[RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://robotics-transformer2.github.io/assets/rt2.pdf), preprint [[project page]](https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action)
 
-[VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models], arxiv 2023 [[project page]](https://voxposer.github.io/)
+[VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models](https://arxiv.org/abs/2307.05973), arxiv 2023 [[project page]](https://voxposer.github.io/)
 
 [MotionGPT: Human Motion as a Foreign Language](https://arxiv.org/abs//2306.14795), arxiv 2023 [[code]](https://github.com/OpenMotionLab/MotionGPT)
 
