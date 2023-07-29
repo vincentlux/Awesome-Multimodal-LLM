@@ -125,6 +125,8 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 ### Embodied-Centric Understanding
 
+[Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition](https://arxiv.org/abs/2307.14535), arxiv 2023 [[code]](https://github.com/columbia-ai-robotics/scalingup)
+
 [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control], preprint [[project page]](https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action)
 
 [VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models], arxiv 2023 [[project page]](https://voxposer.github.io/)
