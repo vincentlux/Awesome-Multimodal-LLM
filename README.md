@@ -88,6 +88,8 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 ### Vision-Centric Understanding
 
+[Contextual Object Detection with Multimodal Large Language Models](https://arxiv.org/abs/2305.18279), arxiv 2023 [[code]](https://github.com/yuhangzang/ContextDET)
+
 [KOSMOS-2: Grounding Multimodal Large Language Models to the World](https://arxiv.org/abs/2306.14824), arxiv 2023 [[code]](https://github.com/microsoft/unilm/tree/master/kosmos-2)
 
 [Contextual Object Detection with Multimodal Large Language Models](https://arxiv.org/abs/2305.18279), arxiv 2023 [[code]](https://github.com/yuhangzang/ContextDET)
